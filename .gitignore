@@ -1,4 +1,4 @@
-/x64
+/x64/
 ConsoleAplication3.sln
 ConsoleAplication3/ConsoleAplication3.cpp
 ConsoleAplication3/ConsoleAplication3.vcxproj
@@ -6,3 +6,4 @@ ConsoleAplication3/ConsoleAplication3.vcxproj.filters
 ConsoleAplication3/ConsoleAplication3.vcxproj.user
 ConsoleAplication3/x64
 ConsoleAplication3/ConsoleA.9e4516d4/
+/.vs/
